@@ -1,0 +1,5 @@
+[core]
+    autostage = true
+    remote = dvc-repo
+['remote "dvc-repo"']
+    url = gdrive://12pbXvNo0CdLRYCgwVCFjAhTy5ZfKgY3r
