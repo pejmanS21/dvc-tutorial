@@ -1,4 +1,4 @@
 outs:
-- md5: b7bffec168fc4d51e6bbdd24a1ae2d75
-  size: 44056
+- md5: 471b49ef562d4766e7fcd9b9fb9c3137
+  size: 132168
   path: Monitoring_MINIO_ON.log
